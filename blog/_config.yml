@@ -70,3 +70,4 @@ theme: landscape
 deploy:
   type:git
   repo:https://github.com/terebyte/terebyte.github.io.git
+  branch:master
